@@ -1,0 +1,117 @@
+{    
+"questions":
+    [
+    {
+        "id":1,
+        "body":"Which animal is named the king of the jungle?",
+        "answer":["lion"],
+        "alternatives":["rat", "elephant", "eagle"],
+        "hint": "It roars",
+        "topics": ["animals", "jungle"]
+    },
+    {
+        "id":2,
+        "body":"Which animal is not a predator?",
+        "answer":["cow", "horse"],
+        "alternatives":["wolf", "lion", "crocodile"],
+        "hint": "predators eat meat",
+        "topics": ["animals", "predators"]
+    },
+    {
+        "id":3,
+        "body":"How do you find this course?",
+        "answer":["I love it"],
+        "alternatives":["I hate it", "I should have taken the Banking course", "I'm dropping the course"],
+        "hint": "You love the course",
+        "topics": ["dart", "courses"]
+    },
+    {
+        "id":4,
+        "body":"Which animal is the largest land animal?",
+        "answer":["elephant"],
+        "alternatives":["lion", "giraffe", "hippopotamus"],
+        "hint": "It has a trunk",
+        "topics": ["animals", "jungle"]
+    },
+    {
+        "id":5,
+        "body":"Which predator is known for its speed?",
+        "answer":["cheetah"],
+        "alternatives":["lion", "tiger", "wolf"],
+        "hint": "It is the fastest land animal",
+        "topics": ["animals", "predators"]
+    },
+    {
+        "id":6,
+        "body":"Which programming language is used in this course?",
+        "answer":["Dart"],
+        "alternatives":["Python", "Java", "C++"],
+        "hint": "It is used for Flutter development",
+        "topics": ["dart", "courses"]
+    },
+    {
+        "id":7,
+        "body":"Which animal is known for its ability to mimic human speech?",
+        "answer":["parrot"],
+        "alternatives":["crow", "eagle", "owl"],
+        "hint": "It is a colorful bird",
+        "topics": ["animals"]
+    },
+    {
+        "id":8,
+        "body":"Which animal is considered the apex predator of the ocean?",
+        "answer":["shark"],
+        "alternatives":["whale", "dolphin", "octopus"],
+        "hint": "It has sharp teeth and fins",
+        "topics": ["animals", "predators"]
+    },
+    {
+        "id":9,
+        "body":"What is the output of the Dart expression `3 + 2 * 2`?",
+        "answer":["7"],
+        "alternatives":["10", "8", "6"],
+        "hint": "Follow the order of operations",
+        "topics": ["dart"]
+    },
+    {
+        "id":10,
+        "body":"Which animal is known for building dams?",
+        "answer":["beaver"],
+        "alternatives":["otter", "bear", "fox"],
+        "hint": "It is a rodent that lives near water",
+        "topics": ["animals"]
+    },
+    {
+        "id":11,
+        "body":"Which animal is known as the ship of the desert?",
+        "answer":["camel"],
+        "alternatives":["horse", "donkey", "elephant"],
+        "hint": "It has humps",
+        "topics": ["animals", "jungle"]
+    },
+    {
+        "id":12,
+        "body":"Which predator is known for hunting in packs?",
+        "answer":["wolf"],
+        "alternatives":["tiger", "lion", "leopard"],
+        "hint": "It howls at the moon",
+        "topics": ["animals", "predators"]
+    },
+    {
+        "id":13,
+        "body":"What is the keyword to define a constant in Dart?",
+        "answer":["const"],
+        "alternatives":["final", "static", "immutable"],
+        "hint": "It starts with 'c'",
+        "topics": ["dart"]
+    },
+    {
+        "id":14,
+        "body":"Which animal is known for its black and white stripes?",
+        "answer":["zebra"],
+        "alternatives":["tiger", "panda", "skunk"],
+        "hint": "It is a herbivore found in Africa",
+        "topics": ["animals"]
+    }
+    ] 
+}
